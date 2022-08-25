@@ -8,9 +8,9 @@ body {
 }
 
 .text {
-  background-color: rgb(216, 233, 233);
+  background-color: white;
   /* display: block; */
-  width: 25%;
+  width: 12%;
   height: 355px;
   padding: 10px;
 }
